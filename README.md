@@ -19,4 +19,4 @@ direction, passing in configuration and events through
 C functions and doing all rendering in C.  I hope to
 register a callback with the AUAudioUnit wrapped within
 an AVAudioPlayerNode, but have not yet confirmed that
-this is possible. - 02Jan2019
+this is possible. - 02Jan2019 (Edited 24Feb2019)
